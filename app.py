@@ -136,4 +136,3 @@ def logout():
 # Start Flask app
 if __name__ == '__main__':
     app.run(debug=False)  # Deaktiver debug-mode i produktion
-
